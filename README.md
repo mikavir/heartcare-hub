@@ -55,19 +55,24 @@ I used [coolors.co](https://coolors.co/8c0032-e71348-ffffff-666666-333333) to ge
 
 ### Typography
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+Research was completed on the preferred typography on a healthcare website. As HeartCare Hub can be referred to as a healthcare website, using similar typography will respect the convention and encourage consistency.
 
-Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
+These three fonts were recommended for the use of healthcare websites: [2]
 
-Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
+Source Sans pro- sans-serif font
+Crimsons text- serif font
+Fjord One - sans-serif font
+The applied use of a combination serif and sans-serif is further recommended in a medical website to provide contrast.
 
-Example:
+Therefore, these three recommended fonts will be used along with different font-weights used accodingly. Only two fonts will be used as three or more can make teh website appear excessive and lose professionalism [3].
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+These fonts will be taken from Google Fonts and to be used within my Cascading Style Sheets(CSS).
 
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
+Icons from Font-Awesome will be used to provide visualisation amongst the text.
 
-- [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
+- [Source Sans 3](https://fonts.google.com/specimen/Source+Sans+3?query=source+sans) was used for the primary headers and titles.
+
+- [Crimson Text](https://fonts.google.com/specimen/Crimson+Text) was used for all other secondary text.
 
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
@@ -374,8 +379,10 @@ Ideally, you should provide an actual link to every resource used, not just a ge
 | [strftime](https://strftime.org) | CRUD functionality | helpful tool to format date/time from string |
 | [WhiteNoise](http://whitenoise.evans.io) | entire site | hosting static files on Heroku temporarily |
 
-reference:
+Reference:
 [1]doctorlogic.com. (n.d.). Beyond Blue and White: A Guide to Choosing Medical Logo Colors. [online] Available at: https://doctorlogic.com/blog/medical-logo-colors.html#:~:text=Why%20Are%20Blue%20And%20White.
+[2]Anon, (n.d.). Choosing The Best Fonts For Dental And Medical Websites | Dental CountryTM. [online] Available at: https://dentalcountry.com/doctors/articles/choosing-the-best-fonts-for-dental-and-medical-websites/#whatis [Accessed 10 Dec. 2023].
+[3]ThoughtCo. (n.d.). Everything You Need to Know About Choosing the Right Font Family. [online] Available at: https://www.thoughtco.com/font-families-basics-3467382.
 
 ### Media
 
