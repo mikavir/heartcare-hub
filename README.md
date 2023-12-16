@@ -95,92 +95,55 @@ Icons from Font-Awesome will be used to provide visualisation amongst the text.
 
 ## Wireframes
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-In this section, display your wireframe screenshots using a Markdown `table`.
-Instructions on how to do Markdown `tables` start on line #213 on this site: https://pandao.github.io/editor.md/en.html
-
-Alternatively, dropdowns are a way to condense several wireframes into a collapsible menu to save space.
-Dropdowns in Markdown are considered some of the only acceptable HTML components that are allowed for assessment purposes.
-
-**IMPORTANT**! **IMPORTANT**! **IMPORTANT**!
-The example below uses the `details` and `summary` code elements.
-However, for these scripts to work, I've had to add spaces within the `< >` elements.
-
-You MUST remove these spaces for it to work properly on your own README/TESTING files.
-Remove the spaces within the `< >` brackets for the `details` and `summary` code elements,
-for the Mobile, Tablet, and Desktop wireframes.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
 I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
 
 ### Mobile Wireframes
 
-< details >
-< summary > Click here to see the Mobile Wireframes < / summary >
+<details>
+<summary> Click here to see the Mobile Wireframes </summary>
 
 Home
-  - ![screenshot](documentation/wireframes/mobile-home.png)
+  - ![screenshot](documentation/homepage-mobile1.png)
 
-About
-  - ![screenshot](documentation/wireframes/mobile-about.png)
+Information
+  - ![screenshot](documentation/information-mobile.png)
 
-Contact
-  - ![screenshot](documentation/wireframes/mobile-contact.png)
+Location
+  - ![screenshot](documentation/information-mobile.png)
 
-Gallery
-  - ![screenshot](documentation/wireframes/mobile-gallery.png)
+Contact 
+  - ![screenshot](documentation/contact-mobile.png)
 
-etc.
-  - repeat for any remaining mobile wireframes
+Details Form
+  - ![screenshot](documentation/detail-form-mobile.png)
 
-< / details >
+</details>
 
-### Tablet Wireframes
-
-< details >
-< summary > Click here to see the Tablet Wireframes < / summary >
-
-Home
-  - ![screenshot](documentation/wireframes/tablet-home.png)
-
-About
-  - ![screenshot](documentation/wireframes/tablet-about.png)
-
-Contact
-  - ![screenshot](documentation/wireframes/tablet-contact.png)
-
-Gallery
-  - ![screenshot](documentation/wireframes/tablet-gallery.png)
-
-etc.
-  - repeat for any remaining tablet wireframes
-
-< / details >
 
 ### Desktop Wireframes
 
-< details >
-< summary > Click here to see the Desktop Wireframes < / summary >
+<details>
+<summary> Click here to see the Desktop Wireframes </summary>
 
 Home
-  - ![screenshot](documentation/wireframes/desktop-home.png)
+  - ![screenshot](documentation/homepage-desktop.png)
 
-About
-  - ![screenshot](documentation/wireframes/desktop-about.png)
+Information
+  - ![screenshot](documentation/information-desktop.png)
+
+Location
+  - ![screenshot](documentation/location-desktop.png)
 
 Contact
-  - ![screenshot](documentation/wireframes/desktop-contact.png)
+  - ![screenshot](documentation/contact-desktop.png)
 
-Gallery
-  - ![screenshot](documentation/wireframes/desktop-gallery.png)
 
-etc.
-  - repeat for any remaining desktop wireframes
+Details Form
+  - ![screenshot](documentation/detail-form-desktop.png)
 
-< / details >
+</details>
 
 ## Features
 
