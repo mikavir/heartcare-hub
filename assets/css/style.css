@@ -1,0 +1,20 @@
+/* navigation bar */
+
+.navbar-custom {
+    background-color: rgb(227, 145, 153);
+}
+
+.navbar-brand img {
+    position: relative;
+    left: 15px;
+    max-height: 60px; /* height of the navbar */
+    width: 160px;
+}
+
+.custom-toggler i{
+    color: #8C0032;
+}
+
+.nav-custom-text a {
+    color: #8C0032;
+}
