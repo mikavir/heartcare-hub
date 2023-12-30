@@ -3,15 +3,18 @@
 
 
 /* navigation bar */
+body {
+    padding-top: 60px; 
+}
 
 .navbar-custom {
-    background-color: rgba(251, 148, 158, 0.2);
+    background-color: #fff;
 }
 
 .navbar-brand img {
     position: relative;
     left: 15px;
-    max-height: 60px; /* height of the navbar */
+    max-height: 50px; /* height of the navbar */
     width: 160px;
 }
 
@@ -54,7 +57,56 @@
     letter-spacing: 3px;
 }
 
+#cardiac-surgery {
+    max-height: 75vh;
+    background:#8C0032;
+}
+
+
+
+#cardiac-surgery p {
+    color: #fff;
+    font-family: 'Source Sans 3', sans-serif;
+    padding: 15px;
+
+}
+
+
+#cardiac-surgery h1 {
+    color: #fff;
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 650;
+    font-size: xx-large;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    padding: 15px;
+}
+
+#cardiac-surgery img {
+    max-width: 100%;
+    max-height: 40vh;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}
+
+#cardiac-surgery button {
+    margin: 15x;
+    padding: 5px;
+    border-radius: 15px;
+}
+ 
+#cardiac-surgery a  {
+    color: white;
+    text-decoration: none;
+ }
 /* locations in the index page */
+
+#locations {
+    padding-top: 15px;
+}
 
 .location-title {
     color: #8C0032;
@@ -109,9 +161,9 @@
     text-transform: uppercase;
     position: absolute;
     top: 50%;
-     left: 50%;
-     transform: translate(-50%, -50%);
-     padding: 10px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
 
 }
 .location-heading p {
@@ -127,4 +179,49 @@ footer i {
 
 footer .footer-text {
     color: #8C0032;
+}
+
+/* information page */
+
+.hero-image-information {
+    background-image: url("../images/hero-image7.jpeg");
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+
+@media screen and (max-width: 600px) {
+    .hero-image-information{
+        height: 15vh;
+        width: 100%;
+    }
+
+    .information-container {
+        height: 90%!important;
+        overflow-y: scroll;
+        position: relative;
+    }
+
+}
+
+.information-container {
+    height: 50vh;
+    overflow-y: scroll;
+    position: relative;
+    padding: 15px;
+}
+
+/* scrolpsy */
+
+.information-container .nav .nav-link {
+    color:#8C0032!important;
+}
+
+.information-container .nav .active {
+    color: white!important;
+    background-color:#8C0032!important;
 }
