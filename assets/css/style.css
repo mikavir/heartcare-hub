@@ -232,3 +232,17 @@ footer .footer-text {
     border-radius: 20px;
     padding: 15px;
 }
+
+#location-information .location-information-red {
+    max-height: 100vh;
+    background:#8C0032;
+    color: white;
+    padding: 15px;  
+}
+
+#location-information .location-information-white {
+    max-height: 100vh;
+    background:#fff;
+    color: #333;
+    padding: 15px;
+}
