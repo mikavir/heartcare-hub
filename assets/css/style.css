@@ -290,6 +290,32 @@ footer .footer-text {
         left: 5px;
     }
 }
+/* form-container */
+.form-container {
+    display: block;
+    text-align: center;
+    height: 100vh;
+    width: 100%;
+    background:#8C0032;
+    position: relative;
+    padding: 15px;
+}
+
+.inner-form-container {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    height: 80vh;
+    width: 80%;
+    border-radius: 15px;
+    background-color:#e7e3e3;
+}
 
 #contact-location-container .hospital-container-cardiff {
     background-image: url('../images/hospital-cardiff.jpg');
