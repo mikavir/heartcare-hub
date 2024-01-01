@@ -294,12 +294,13 @@ footer .footer-text {
 .form-container {
     display: block;
     text-align: center;
-    height: 100vh;
+    height: 80vh;
     width: 100%;
     background:#8C0032;
     position: relative;
     padding: 15px;
 }
+
 
 .inner-form-container {
     display: inline-block;
@@ -310,11 +311,21 @@ footer .footer-text {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    padding: 10px;
-    height: 80vh;
+    padding: 50px 25px;
+    height: 60vh;
     width: 80%;
     border-radius: 15px;
     background-color:#e7e3e3;
+}
+
+
+.form-elements-container {
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 15px;
+    max-height: 60vh;
+    max-width: 100%;
+    padding: 20px;
 }
 
 #contact-location-container .hospital-container-cardiff {
