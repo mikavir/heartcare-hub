@@ -226,7 +226,7 @@ footer .footer-text {
 }
 
 .information-container {
-    min-height: 50vh;
+    max-height: 100vh;
     overflow-y: scroll;
     position: relative;
     padding: 15px;
