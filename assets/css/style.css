@@ -232,6 +232,21 @@ footer .footer-text {
     padding: 15px;
 }
 
+.data-container h4, h5{
+    font-family: 'Source Sans 3', sans-serif;
+    color:#8C0032;
+    font-weight: bold;
+    font-size: x-large;
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+
+}
+
+.data-container p, li {
+    font-family: 'Crimson Text', serif;
+    font-size: large;
+}
 /* scrolpsy */
 
 .information-container .nav .nav-link {
