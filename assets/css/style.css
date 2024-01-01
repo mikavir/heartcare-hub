@@ -63,7 +63,6 @@ body {
 }
 
 
-
 #cardiac-surgery p {
     color: #fff;
     font-family: 'Source Sans 3', sans-serif;
@@ -194,6 +193,16 @@ footer .footer-text {
 
 }
 
+.hero-contact {
+    background-image: url("../images/hero-contact.jpeg");
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
 @media screen and (max-width: 600px) {
     .hero-image-information{
         height: 15vh;
@@ -246,3 +255,54 @@ footer .footer-text {
     color: #333;
     padding: 15px;
 }
+
+/* contact page */
+.hero-contact {
+    background-image: url("../images/hero-contact.jpeg");
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+
+.contact-cover-text {
+    font-size: 130%;
+    font-family: 'Source Sans 3', sans-serif;
+    letter-spacing: 4px;
+    color: #fff;
+    width: 300px;
+    height: 150px;
+    padding-left: 10px;
+    padding-top: 40px;
+    background-color: rgba(140,0,50,0.8);
+    border-radius: 15px;
+    bottom: 120px;
+    left: 125px;
+    position: absolute;
+    text-transform: capitalize;
+}
+
+@media screen and (max-width: 943px) {
+    .contact-cover-text {
+        left: 5px;
+    }
+}
+
+#contact-location-container .hospital-container-cardiff {
+    background-image: url('../images/hospital-cardiff.jpg');
+}
+
+
+#contact-location-container .hospital-container-bristol {
+    background-image: url('../images/hospital-bristol.jpeg');
+
+}
+
+#contact-location-container .hospital-container-swansea {
+    background-image: url('../images/hospital-swansea.jpeg');
+
+}
+
