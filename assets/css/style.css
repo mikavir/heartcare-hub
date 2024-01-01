@@ -243,14 +243,14 @@ footer .footer-text {
 }
 
 #location-information .location-information-red {
-    max-height: 100vh;
+    min-height: 70vh;
     background:#8C0032;
     color: white;
     padding: 15px;  
 }
 
 #location-information .location-information-white {
-    max-height: 100vh;
+    min-height: 70vh;
     background:#fff;
     color: #333;
     padding: 15px;
@@ -291,10 +291,24 @@ footer .footer-text {
     }
 }
 /* form-container */
+
+.contact-message {
+    color: #3d3035;
+    font-family: 'Source Sans 3', sans-serif;
+    padding: 10px;
+}
+
+.contact-message h2 {
+    font-size: xx-large;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+
 .form-container {
     display: block;
     text-align: center;
-    height: 80vh;
+    min-height: 70vh;
     width: 100%;
     background:#8C0032;
     position: relative;
@@ -312,7 +326,7 @@ footer .footer-text {
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 50px 25px;
-    height: 60vh;
+    min-height: 50vh;
     width: 80%;
     border-radius: 15px;
     background-color:#e7e3e3;
@@ -327,6 +341,33 @@ footer .footer-text {
     max-width: 100%;
     padding: 20px;
 }
+
+.form-elements-container input, textarea {
+    width: 80%;
+    border-radius: 10px;
+    border: solid #8C0032 1px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.form-elements-container label, i {
+    margin-right: 5px;
+    padding: 5px;
+}
+
+.form-elements-container input[type=submit] {
+    margin-left: 40px;
+    color:#fff;
+    background-color: #8C0032;
+    padding: 5px;
+}
+
+.form-elements-container input[type=submit]:hover {
+    color: #8C0032;  
+    border: #8C0032 solid 1px;
+    background-color: #fff;
+}
+
 
 #contact-location-container .hospital-container-cardiff {
     background-image: url('../images/hospital-cardiff.jpg');
