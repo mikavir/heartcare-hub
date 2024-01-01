@@ -238,9 +238,7 @@ footer .footer-text {
     font-weight: bold;
     font-size: x-large;
     padding-bottom: 5px;
-    padding-top: 5px;
-
-
+    padding-top: 5px
 }
 
 .data-container p, li {
@@ -271,6 +269,7 @@ footer .footer-text {
     background:#8C0032;
     color: white;
     padding: 15px;  
+    font-family: 'Source Sans 3', sans-serif;
 }
 
 #location-information .location-information-white {
@@ -278,6 +277,7 @@ footer .footer-text {
     background:#fff;
     color: #333;
     padding: 15px;
+    font-family: 'Source Sans 3', sans-serif;
 }
 
 /* contact page */
