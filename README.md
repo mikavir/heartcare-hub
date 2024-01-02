@@ -318,32 +318,24 @@ Reference:
 [3]ThoughtCo. (n.d.). Everything You Need to Know About Choosing the Right Font Family. [online] Available at: https://www.thoughtco.com/font-families-basics-3467382.
 
 ### Media
-
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-Use this space to provide attribution links to any images, videos, or audio files borrowed from online.
-A few examples have been provided below to give you some ideas.
-
-If you're the owner (or a close acquaintance) of all media files, then make sure to specify this.
-Let the assessors know that you have explicit rights to use the media files within your project.
-
-Ideally, you should provide an actual link to every media file used, not just a generic link to the main site!
-The list below is by no means exhaustive. Within the Code Institute Slack community, you can find more "free media" links
-by sending yourself the following command: `!freemedia`.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
-| [Pexels](https://www.pexels.com) | entire site | image | favicon on all pages |
-| [Lorem Picsum](https://picsum.photos) | home page | image | hero image background |
-| [Unsplash](https://unsplash.com) | product page | image | sample of fake products |
-| [Pixabay](https://pixabay.com) | gallery page | image | group of photos for gallery |
-| [Wallhere](https://wallhere.com) | footer | image | background wallpaper image in the footer |
-| [This Person Does Not Exist](https://thispersondoesnotexist.com) | testimonials | image | headshots of fake testimonial images |
-| [Audio Micro](https://www.audiomicro.com/free-sound-effects) | game page | audio | free audio files to generate the game sounds |
-| [Videvo](https://www.videvo.net/) | home page | video | background video on the hero section |
-| [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
+| [Freepik](https://www.freepik.com/free-vector/two-ecg-lines-red-glyph_37682362.htm) | Entire Website | Image | Logo |
+| [Oracle Cerner](https://www.cerner.com/ie/en/client-achievements/digital-ecgs-speeding-up-cardiac-care-decisions) | Index page | Image | Hero Background |
+| [Terry Berry](https://www.terryberry.com/blog/employee-recognition-ideas-for-healthcare-industry/) | Index page | Image | Hero background |
+| [Visit Wales](https://www.visitwales.com/destinations/south-wales/cardiff/top-things-see-and-do-cardiff-bay) | Index page and Location page | Image | Image of Cardiff in locations |
+| [Visit Wales](https://www.visitwales.com/destinations/west-wales/swansea-bay/things-see-and-do-swansea) | Index page and Location page | Image | Image of Swansea in the Locations |
+| [Telegraph](https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/bristol/articles/bristol-travel-guide/) | Index page and location page | Image | Image of Bristol in the locations |
+| [British Heart Foundation](https://www.bhf.org.uk/what-we-do/our-research/research-successes/beating-heart-surgery) | Information page | Image | Hero Background on Information page |
+| [Canadian Business College](https://canadianbusinesscollege.com/2021/03/12/5-qualities-shared-by-professionals-in-healthcare-careers/) | Index page | Image | Image for recruitment container |
+| [Wikipedia](https://en.wikipedia.org/wiki/University_Hospital_of_Wales) | Locations and Contact page| Image | Image for University Hospital of Wales |
+| [Wikipedia](https://en.wikipedia.org/wiki/Bristol_Royal_Infirmary) | Locations and Contact page | Image | Image for Bristol Royal Infirmary|
+| [NHS Wales](https://sbuhb.nhs.wales/hospitals/our-hospitals/morriston-hospital/) | Locations and Contact page| Image | Image for Morriston Hospital|
+| [Google Maps](https://www.google.com/maps/) | Location page | Embedded map | Maps for the hospitals|
+| [The Tech Blog](https://thetechblog.net/tips-to-grow-your-healthcare-business-by-sourceims-a-healthcare-call-center-company/) | Contact page | Image | Hero Background image for Contact page|
+| [Bupa Health UK](https://www.youtube.com/watch?v=vw6OKJu07NE) | Information page | Youtube Video | Informative video on Coronary Artery Bypass Graft|
+| [Osmosis from Elsevier](https://www.youtube.com/watch?v=e7ObXrdtXek) | Information page | Youtube Video | Informative video on ventricular septal defect|
+ [Osmosis from Elsevier](https://www.youtube.com/watch?v=GUagU8YrJZc) | Information page | Youtube Video | Informative video on aortic dissection|
 
 ### Acknowledgements
 
