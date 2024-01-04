@@ -30,14 +30,11 @@ body {
 
 /*  hero images */
 .hero-image {
-    height: 60vh;
-    width: 100%;
+   object-fit: cover;
 }
 
 @media (max-width: 768px) {
-    .hero-image {
-        height: 50vh;
-    }
+    
 }
 
 .hero-custom-text {
@@ -57,8 +54,11 @@ body {
     letter-spacing: 3px;
 }
 
+.carousel-item {
+    max-height: 60vh;
+}
+
 #cardiac-surgery {
-    max-height: 75vh;
     background:#8C0032;
 }
 
