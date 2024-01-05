@@ -266,6 +266,7 @@ footer .footer-text {
 
 /* contact page */
 .hero-contact {
+    display: block;
     background-image: url("../images/hero-contact.jpeg");
     height: 50vh;
     width: 100%;
@@ -292,8 +293,11 @@ footer .footer-text {
     text-transform: capitalize;
 }
 
-@media screen and (max-width: 943px) {
+@media screen and (max-width: 600px) {
     .contact-cover-text {
+        min-width:150px;
+        min-height: 75px;
+        font-size: 75%;
         left: 5px;
     }
 }
@@ -337,8 +341,6 @@ footer .footer-text {
     border-radius: 15px;
     background-color:#e7e3e3;
 }
-
-media
 
 
 .form-elements-container {
@@ -392,5 +394,32 @@ media
 #contact-location-container .hospital-container-swansea {
     background-image: url('../images/hospital-swansea.jpeg');
 
+}
+@media screen and (max-width: 600px)
+{  
+    .contact-message {
+        font-size: large;
+        padding: 5px;
+    }
+    
+    .hero-contact{
+        background-position: center;
+    }
+    .inner-form-container{
+        width: 100%;
+        padding: 5px;
+        text-align: center;
+
+    }
+    .form-elements-container {
+        padding: 5px;
+    }
+    .form-elements-container input, textarea {
+        margin: 2px;
+
+    }
+    .form-elements-container input[type=submit]{
+        margin-left: none;
+    }
 }
 
