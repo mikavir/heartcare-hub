@@ -192,41 +192,26 @@ footer .footer-text {
     height: 50vh;
     width: 100%;
     background-size: cover;
-    background-position: center;
+    background-position: 40% 50%;
     background-repeat: no-repeat;
     position: relative;
 
 }
 
-.hero-contact {
-    background-image: url("../images/hero-contact.jpeg");
-    height: 50vh;
-    width: 100%;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    position: relative;
-}
 
 @media screen and (max-width: 600px) {
     .hero-image-information{
         height: 15vh;
         width: 100%;
     }
-
-    .information-container {
-        height: 90%!important;
-        overflow-y: scroll;
-        position: relative;
-    }
-
 }
 
 .information-container {
-    max-height: 100vh;
-    overflow-y: scroll;
-    position: relative;
     padding: 15px;
+}
+
+.sticky-top {
+    top: 4em;
 }
 
 .data-container h4, h5{
@@ -262,7 +247,6 @@ footer .footer-text {
 }
 
 #location-information .location-information-red {
-    min-height: 70vh;
     background:#8C0032;
     color: white;
     padding: 15px;  
@@ -270,7 +254,6 @@ footer .footer-text {
 }
 
 #location-information .location-information-white {
-    min-height: 70vh;
     background:#fff;
     color: #333;
     padding: 15px;
@@ -347,7 +330,6 @@ footer .footer-text {
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 50px 25px;
-    min-height: 50vh;
     width: 80%;
     border-radius: 15px;
     background-color:#e7e3e3;
@@ -358,7 +340,6 @@ footer .footer-text {
     display: inline-block;
     background-color: #fff;
     border-radius: 15px;
-    max-height: 60vh;
     max-width: 100%;
     padding: 20px;
 }
