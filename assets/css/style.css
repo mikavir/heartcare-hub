@@ -210,7 +210,8 @@ footer .footer-text {
     padding: 15px;
 }
 
-.sticky-top {
+#cardiac-information {
+    position: sticky;
     top: 4em;
 }
 
