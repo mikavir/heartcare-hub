@@ -3,8 +3,8 @@
 
 
 /* navigation bar */
-body {
-    padding-top: 60px; 
+main {
+    padding-top: 6em; 
 }
 
 .navbar-custom {
@@ -270,7 +270,6 @@ footer .footer-text {
     height: 50vh;
     width: 100%;
     background-size: cover;
-    background-position: center;
     background-repeat: no-repeat;
     position: relative;
 }
@@ -316,7 +315,7 @@ footer .footer-text {
 .form-container {
     display: block;
     text-align: center;
-    min-height: 70vh;
+    min-height: 80vh;
     width: 100%;
     background:#8C0032;
     position: relative;
@@ -338,6 +337,8 @@ footer .footer-text {
     border-radius: 15px;
     background-color:#e7e3e3;
 }
+
+media
 
 
 .form-elements-container {
