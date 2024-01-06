@@ -226,6 +226,7 @@ footer .footer-text {
     aspect-ratio: 16 / 9;
     width: 100%;
   }
+  
 .data-container p, li {
     font-family: 'Crimson Text', serif;
     font-size: large;
@@ -395,6 +396,7 @@ footer .footer-text {
     background-image: url('../images/hospital-swansea.jpeg');
 
 }
+
 @media screen and (max-width: 600px)
 {  
     .contact-message {
