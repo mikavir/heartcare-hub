@@ -4,7 +4,7 @@
 
 /* navigation bar */
 main {
-    padding-top: 6em; 
+    padding-top: 5em; 
 }
 
 .navbar-custom {
@@ -12,10 +12,17 @@ main {
 }
 
 .navbar-brand img {
-    position: relative;
+    display: inline-block;
     left: 15px;
-    max-height: 50px; /* height of the navbar */
-    width: 160px;
+    max-height: 40px;
+    max-width: 100%;
+}
+
+.navbar-brand > span {
+    color: #8C0032;
+    display: inline;
+    font-family:'Crimson Text', serif;
+    font-weight: bold;
 }
 
 .custom-toggler i{
