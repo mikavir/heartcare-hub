@@ -320,7 +320,7 @@ Reference:
 ### Media
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
-| [Freepik](https://www.freepik.com/free-vector/two-ecg-lines-red-glyph_37682362.htm) | Entire Website | Image | Logo |
+| [Freepik](https://www.freepik.com/free-vector/two-heartbeat-ecg-line-heart-outlines_37682371.htm#page=3&query=ecg%20machine&position=2&from_view=keyword&track=ais&uuid=425c2731-6457-4514-8172-7f8436c45076) | Entire Website | Image | Logo |
 | [Oracle Cerner](https://www.cerner.com/ie/en/client-achievements/digital-ecgs-speeding-up-cardiac-care-decisions) | Index page | Image | Hero Background |
 | [Terry Berry](https://www.terryberry.com/blog/employee-recognition-ideas-for-healthcare-industry/) | Index page | Image | Hero background |
 | [Visit Wales](https://www.visitwales.com/destinations/south-wales/cardiff/top-things-see-and-do-cardiff-bay) | Index page and Location page | Image | Image of Cardiff in locations |
