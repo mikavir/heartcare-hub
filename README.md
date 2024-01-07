@@ -26,7 +26,7 @@ In this section, you will briefly explain your design processes.
 
 I used [coolors.co](https://coolors.co/8c0032-e71348-ffffff-666666-333333) to generate my colour palette.
 
-![screenshot](![color scheme](documentation/colourscheme2.png))
+![screenshot](documentation/colour-scheme2.png)
 
 
 
