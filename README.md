@@ -141,21 +141,21 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 ### Existing Features
 
-- **Title for feature #1**
+- **Location Cards**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - In the index page, I have created cards that enable site users to redirect themselves to their desired area of centers. These cards incorporate an interactive zoom hover effect. This feature allows site users to easily find information about where they can work. The cards redirect them to the location page, which displays hospitals in the desired area.
 
 ![screenshot](documentation/feature01.png)
 
-- **Title for feature #2**
+- **Information page**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - When a site user clicks on 'Cardiac Surgery' in the navigation bar, they will be redirected to the information page dedicated to cardiac surgery. This page provides comprehensive navigation, offering detailed information about various aspects of cardiac surgery. This feature allows users interested in cardiac surgery to easily access and gain valuable information about the practice. 
 
 ![screenshot](documentation/feature02.png)
 
-- **Title for feature #3**
+- **Call-To-Action**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - This call-to-action section is located on the index page. It is designed to prompt target audiences to seek more information regarding the practice. The section contains a button with a clear imperative message, 'Find out more.' Additionally, it features an image of a group of smiling healthcare professionals to associate a positive nature with the employment and encourage recruitment.
 
 ![screenshot](documentation/feature03.png)
 
