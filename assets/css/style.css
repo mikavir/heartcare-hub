@@ -309,6 +309,11 @@ footer .footer-text {
         left: 5px;
     }
 }
+
+iframe.google-maps {
+    width: 100% !important;
+    height: 100% !important;
+}
 /* form-container */
 
 .contact-message {
