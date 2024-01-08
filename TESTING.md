@@ -70,16 +70,12 @@ Sample responsiveness testing documentation:
 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
-| Device | Home | About | Contact | etc | Notes |
-| --- | --- | --- | --- | --- | --- |
-| Mobile (DevTools) | ![screenshot](documentation/responsive-mobile-home.png) | ![screenshot](documentation/responsive-mobile-about.png) | ![screenshot](documentation/responsive-mobile-contact.png) | ![screenshot](documentation/responsive-mobile-etc.png) | Works as expected |
-| Tablet (DevTools) | ![screenshot](documentation/responsive-tablet-home.png) | ![screenshot](documentation/responsive-tablet-about.png) | ![screenshot](documentation/responsive-tablet-contact.png) | ![screenshot](documentation/responsive-tablet-etc.png) | Works as expected |
-| Desktop | ![screenshot](documentation/responsive-desktop-home.png) | ![screenshot](documentation/responsive-desktop-about.png) | ![screenshot](documentation/responsive-desktop-contact.png) | ![screenshot](documentation/responsive-desktop-etc.png) | Works as expected |
-| XL Monitor | ![screenshot](documentation/responsive-xl-home.png) | ![screenshot](documentation/responsive-xl-about.png) | ![screenshot](documentation/responsive-xl-contact.png) | ![screenshot](documentation/responsive-xl-etc.png) | Scaling starts to have minor issues |
-| 4K Monitor | ![screenshot](documentation/responsive-4k-home.png) | ![screenshot](documentation/responsive-4k-about.png) | ![screenshot](documentation/responsive-4k-contact.png) | ![screenshot](documentation/responsive-4k-etc.png) | Noticeable scaling issues |
-| Google Pixel 7 Pro | ![screenshot](documentation/responsive-pixel-home.png) | ![screenshot](documentation/responsive-pixel-about.png) | ![screenshot](documentation/responsive-pixel-contact.png) | ![screenshot](documentation/responsive-pixel-etc.png) | Works as expected |
-| iPhone 14 | ![screenshot](documentation/responsive-iphone-home.png) | ![screenshot](documentation/responsive-iphone-about.png) | ![screenshot](documentation/responsive-iphone-contact.png) | ![screenshot](documentation/responsive-iphone-etc.png) | Works as expected |
-| repeat for any other tested browsers | x | x | x | x | x |
+| Device | Index | Information | Location | Contact | Confirmation | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Mobile (DevTools) Iphone XR | ![screenshot](documentation/responsive-mobile-index.png) | ![screenshot](documentation/responsive-mobile-information.png) | ![screenshot](documentation/responsive-mobile-location.png) ![screenshot](documentation/responsive-mobile-location1.png) ![screenshot](documentation/responsive-mobile-location2.png)| ![screenshot](documentation/responsive-mobile-contact.png) | ![screenshot](documentation/responsive-mobile-confirmation.png)| Works as expected |
+| Tablet (DevTools) Ipad Air | ![screenshot](documentation/responsive-tablet-index.png) | ![screenshot](documentation/responsive-tablet-information.png) ![screenshot](documentation/responsive-tablet-information1.png) | ![screenshot](documentation/responsive-tablet-location.png) ![screenshot](documentation/responsive-tablet-location1.png) | ![screenshot](documentation/responsive-tablet-contact.png) | ![screenshot](documentation/responsive-tablet-confirmation.png) | Works as expected |
+| Desktop | ![screenshot](documentation/responsive-desktop-index.png) | ![screenshot](documentation/browser-chrome-information.png) ![screenshot](documentation/browser-chrome-information1.png)| ![screenshot](documentation/browser-chrome-location.png) ![screenshot](documentation/browser-chrome-location1.png) ![screenshot](documentation/browser-chrome-location2.png) | ![screenshot](documentation/browser-chrome-contact.png) ![screenshot](documentation/browser-chrome-contact1.png) ![screenshot](documentation/browser-chrome-contact2.png) | ![screenshot](documentation/browser-chrome-confirmation.png) ![screenshot](documentation/browser-chrome-confirmation1.png) ![screenshot](documentation/browser-chrome-confirmation2.png) | Works as expected |
+| Own Device (Iphone 13 pro) | x | x | x | x | x |
 
 ## Lighthouse Audit
 
@@ -136,47 +132,12 @@ from the respective feature.
 
 ## Bugs
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-This section is primarily used for JavaScript and Python applications,
-but feel free to use this section to document any HTML/CSS bugs you might run into.
-
-It's very important to document any bugs you've discovered while developing the project.
-Make sure to include any necessary steps you've implemented to fix the bug(s) as well.
-
-**PRO TIP**: screenshots of bugs are extremely helpful, and go a long way!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- JS Uncaught ReferenceError: `foobar` is undefined/not defined
+- Font not all aligned in contact.html in the tablet version.
 
     ![screenshot](documentation/bug01.png)
 
-    - To fix this, I _____________________.
+    - To fix this, I increased the font size of the doctor icon to large in my html.
 
-- JS `'let'` or `'const'` or `'template literal syntax'` or `'arrow function syntax (=>)'` is available in ES6 (use `'esversion: 11'`) or Mozilla JS extensions (use moz).
-
-    ![screenshot](documentation/bug02.png)
-
-    - To fix this, I _____________________.
-
-- Python `'ModuleNotFoundError'` when trying to import module from imported package
-
-    ![screenshot](documentation/bug03.png)
-
-    - To fix this, I _____________________.
-
-- Django `TemplateDoesNotExist` at /appname/path appname/template_name.html
-
-    ![screenshot](documentation/bug04.png)
-
-    - To fix this, I _____________________.
-
-- Python `E501 line too long` (93 > 79 characters)
-
-    ![screenshot](documentation/bug04.png)
-
-    - To fix this, I _____________________.
 
 ## Unfixed Bugs
 
