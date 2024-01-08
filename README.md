@@ -8,12 +8,6 @@ HeartCare Hub is a responsive website that can be viewed and accessed in a wide 
 
 ## UX
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-In this section, you will briefly explain your design processes.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 ### Colour Scheme
 
  Research have shown that most medical websites use blue as the primary theme to promote trust and professionalism[1]. However, I have chosen a set of colours that provide an association to the colours of the heart to correspond with the theme of cardiac surgery. Below are the set of colours chosen to represent the website.
@@ -27,7 +21,6 @@ In this section, you will briefly explain your design processes.
 I used [coolors.co](https://coolors.co/8c0032-e71348-ffffff-666666-333333) to generate my colour palette.
 
 ![screenshot](documentation/colour-scheme2.png)
-
 
 
 ### Typography
@@ -238,14 +231,9 @@ You can fork this repository by using the following steps:
 
 ### Local VS Deployment
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-Use this space to discuss any differences between the local version you've developed, and the live deployment site on GitHub Pages.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+There are no differences identified between the local and deployment.
 
 ## Credits
-
 
 ### Content
 
