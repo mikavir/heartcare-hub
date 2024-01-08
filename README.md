@@ -149,7 +149,7 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 - **Information page**
 
-    - When a site user clicks on 'Cardiac Surgery' in the navigation bar, they will be redirected to the information page dedicated to cardiac surgery. This page provides comprehensive navigation, offering detailed information about various aspects of cardiac surgery. This feature allows users interested in cardiac surgery to easily access and gain valuable information about the practice. 
+    - When a site user clicks on 'Cardiac Surgery' in the navigation bar, they will be redirected to the information page dedicated to cardiac surgery. This page provides comprehensive navigation, offering detailed information about various aspects of cardiac surgery. This feature allows users interested in cardiac surgery to easily access and gain valuable information about the practice. YouTube videos were also implemented to aid visual and audio learners.
 
 ![screenshot](documentation/feature02.png)
 
@@ -159,13 +159,32 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 ![screenshot](documentation/feature03.png)
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+- **Map to the hospitals and contact information**
 
-Repeat as necessary for as many features as your site contains.
+    - Information about the centers' locations is available on the dedicated location page. You can find the address, contact details, and a hospital image for easy recognition. Additionally, there's an embedded Google Maps feature to enable users to quickly determine the hospital's proximity. This information is valuable for users considering these hospitals for employment, as they can assess accessibility and convenience.
 
-Hint: the more, the merrier!
+![screenshot](documentation/feature04.png)
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+- **Contact form**
+
+    - A user-friendly contact form that allows users to share their details and express concerns or questions is implemented in the contact page. This not only fosters a sense of trust but also serves as a relationship-building feature. Furthermore, the provided details can be a valuable connection point, enabling us to keep track of users interested in employment opportunities on the site. Upon submission of the form, a confirmation page is displayed to provide feedback on the successful completion of the submission process.
+
+![screenshot](documentation/feature05.png)
+
+- **Social Media Links**
+
+    - In the footer section, you'll find links to our social media profiles, providing an avenue for enhanced connection with site users and contributing to the establishment of a robust online business presence.
+
+![screenshot](documentation/feature06.png)
+
+- **Logo**
+
+    - The navigation bar features a distinctive and memorable logo – a heart accompanied by the company name, strategically designed to resonate with cardiac surgery. This logo not only ensures clarity but also promotes brand recognition, fostering a stronger connection with our audience.
+
+![screenshot](documentation/feature07.png)
+
+
+
 
 ### Future Features
 
