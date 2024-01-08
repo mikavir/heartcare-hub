@@ -47,32 +47,11 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 ## Responsiveness
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-Use this space to discuss testing the live/deployed site on various device sizes.
-
-The minimum requirement is for the following 3 tests:
-- Mobile
-- Tablet
-- Desktop
-
-**IMPORTANT**: You must provide screenshots of the tested responsiveness, to "prove" that you've actually tested them.
-
-Using the "amiresponsive" mockup image (or similar) does not suffice the requirements.
-Consider using some of the built-in device sizes in the Developer Tools.
-
-If you have tested the project on your actual mobile phone or tablet, consider also including screenshots of these as well.
-It showcases a higher level of manual tests, and can be seen as a positive inclusion!
-
-Sample responsiveness testing documentation:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
 | Device | Index | Information | Location | Contact | Confirmation | Notes |
 | --- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Mobile (DevTools) Iphone XR | ![screenshot](documentation/responsive-mobile-index.png) | ![screenshot](documentation/responsive-mobile-information.png) | ![screenshot](documentation/responsive-mobile-location.png) ![screenshot](documentation/responsive-mobile-location1.png) ![screenshot](documentation/responsive-mobile-location2.png)| ![screenshot](documentation/responsive-mobile-contact.png) | ![screenshot](documentation/responsive-mobile-confirmation.png)| Works as expected |
+| Mobile (DevTools) Iphone XR | ![screenshot](documentation/responsive-mobile-index.png) | ![screenshot](documentation/responsive-mobile-informationv2.png) ![screenshot](documentation/responsive-moile-informationv2-1.png) | ![screenshot](documentation/responsive-mobile-location.png) ![screenshot](documentation/responsive-mobile-location1.png) ![screenshot](documentation/responsive-mobile-location2.png)| ![screenshot](documentation/responsive-mobile-contact.png) | ![screenshot](documentation/responsive-mobile-confirmation.png)| Works as expected |
 | Tablet (DevTools) Ipad Air | ![screenshot](documentation/responsive-tablet-index.png) | ![screenshot](documentation/responsive-tablet-information.png) ![screenshot](documentation/responsive-tablet-information1.png) | ![screenshot](documentation/responsive-tablet-location.png) ![screenshot](documentation/responsive-tablet-location1.png) | ![screenshot](documentation/responsive-tablet-contact.png) | ![screenshot](documentation/responsive-tablet-confirmation.png) | Works as expected |
 | Desktop | ![screenshot](documentation/responsive-desktop-index.png) | ![screenshot](documentation/browser-chrome-information.png) ![screenshot](documentation/browser-chrome-information1.png)| ![screenshot](documentation/browser-chrome-location.png) ![screenshot](documentation/browser-chrome-location1.png) ![screenshot](documentation/browser-chrome-location2.png) | ![screenshot](documentation/browser-chrome-contact.png) ![screenshot](documentation/browser-chrome-contact1.png) ![screenshot](documentation/browser-chrome-contact2.png) | ![screenshot](documentation/browser-chrome-confirmation.png) ![screenshot](documentation/browser-chrome-confirmation1.png) ![screenshot](documentation/browser-chrome-confirmation2.png) | Works as expected |
 | Own Device (Iphone 13 pro) |![screenshot](documentation/own-device-index.PNG) ![screenshot](documentation/own-device-index1.PNG) ![screenshot](documentation/own-device-index2.PNG)| ![screenshot](documentation/own-device-information.PNG) ![screenshot](documentation/own-device-information1.PNG) ![screenshot](documentation/own-device-information2.PNG)| ![screenshot](documentation/own-device-location.PNG) ![screenshot](documentation/own-device-location1.PNG) ![screenshot](documentation/own-device-location2.PNG) | ![screenshot](documentation/own-device-contact.PNG) ![screenshot](documentation/own-device-contact1.PNG) ![screenshot](documentation/own-device-contact2.PNG) ![screenshot](documentation/own-device-contact3.PNG) | ![screenshot](documentation/browser-chrome-confirmation.png) ![screenshot](documentation/own-device-confirmation.PNG) ![screenshot](documentation/own-device-confirmation1.PNG) ![screenshot](documentation/own-device-confirmation2.PNG) ![screenshot](documentation/own-device-confirmation3.PNG)| Works as expected |
