@@ -151,7 +151,7 @@ main {
     height: 35vh;
     position: relative;
     cursor: pointer;
-    box-shadow: 0, 4px 6px -1px rgba(0,0,0,0.5);
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.5);
     border-radius: 10px;
 }
 
@@ -314,6 +314,7 @@ iframe.google-maps {
     width: 100% !important;
     height: 100% !important;
 }
+
 /* form-container */
 
 .contact-message {
@@ -433,7 +434,7 @@ iframe.google-maps {
 
     }
     .form-elements-container input[type=submit]{
-        margin-left: none;
+        margin-left: 0;
     }
 }
 
