@@ -124,21 +124,6 @@ Details Form
 
 ## Features
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-In this section, you should go over the different parts of your project,
-and describe each in a sentence or so.
-
-You will need to explain what value each of the features provides for the user,
-focusing on who this website is for, what it is that they want to achieve,
-and how your project is the best way to help them achieve these things.
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-IMPORTANT: Remember to always include a screenshot of each individual feature!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 ### Existing Features
 
 - **Location Cards**
@@ -184,25 +169,16 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 ![screenshot](documentation/feature07.png)
 
 
-
-
 ### Future Features
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+- Customer Testimonials
+    - Incorporating testimonials and reviews from our users will significantly bolster the website's credibility and trustworthiness. This addition is poised to enhance user engagement, encouraging repeat visits. Furthermore, these testimonials provide a platform for users to articulate the benefits they've experienced, effectively communicating the value of our website.
 
-Do you have additional ideas that you'd like to include on your project in the future?
-Fantastic! List them here!
-It's always great to have plans for future improvements!
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
+- About Us page
+    - Introducing an about us page will allow site users to learn more about the organisation fostering trust and credibilility.
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- Title for future feature #1
-    - Any additional notes about this feature.
-- Title for future feature #2
-    - Any additional notes about this feature.
-- Title for future feature #3
-    - Any additional notes about this feature.
+- Question and Answers
+    - The integration of this feature will enhance user experience by streamlining site navigation, ultimately saving users valuable time in accessing the information they seek.
 
 ## Tools & Technologies Used
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
