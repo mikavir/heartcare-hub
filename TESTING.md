@@ -83,12 +83,17 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
     - To fix this, I increased the font size of the doctor icon to large in my contact.html.
 
+- White space on the sides.
+    ![screenshot](documentation/browser-chrome-index.png)
+
+    - To fix this, I have set div col under the div rows as the main was a container fluid and set padding to zero.
+
 - When the location card is clicked and directed to the anchor points, the location heading is obscured by the fixed header.
 
     ![screenshot](documentation/unfixed-bug01.png)
 
     - ~~ Attempted fix: I have added and set scroll-margin-top to the size of my fixed navigation bar of 5em in the #location-information, but the css element is not showing. I have tried to find resources online and there was no solution found. ~~ 
-    - To fix this: I have added the id name of the individual locations.
+    - To fix this, I have added the id name of the individual locations.
 
 
 ## Unfixed Bugs
