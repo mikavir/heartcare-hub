@@ -254,7 +254,7 @@ footer .footer-text {
     padding: 15px;
 }
 
-#location-information {
+#location-information, #cardiff, #bristol, #swansea {
     scroll-margin-top: 5em;
 }
 
