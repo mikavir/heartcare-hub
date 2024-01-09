@@ -196,7 +196,6 @@ footer .footer-text {
 
 }
 
-
 @media screen and (max-width: 600px) {
     .hero-image-information{
         height: 15vh;
@@ -213,7 +212,7 @@ footer .footer-text {
     top: 4em;
 }
 
-.data-container h4, h5{
+h4.data-container , h5.data-container {
     font-family: 'Source Sans 3', sans-serif;
     color:#8C0032;
     font-weight: bold;
@@ -242,10 +241,19 @@ footer .footer-text {
     background-color:#8C0032!important;
 }
 
+/* location.html */
 .hospital-image img {
     border-radius: 20px;
     padding: 15px;
 }
+
+.carousel-cover-text {
+    color: #fff;
+    font-family: 'Source Sans 3', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+}
+
 
 #location-information, #cardiff, #bristol, #swansea {
     scroll-margin-top: 5em;
@@ -389,6 +397,10 @@ span.input-group-text,
 
 @media screen and (max-width: 600px)
 {  
+    .carousel-cover-text > h3 {
+        background-color:#8C0032;
+    }
+    
     .contact-message {
         font-size: large;
         padding: 5px;
