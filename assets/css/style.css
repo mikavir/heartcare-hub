@@ -409,9 +409,7 @@ span.input-group-text,
     .form-elements-container {
         padding: 5px;
     }
-    /* .form-elements-container input, textarea {
-        margin: 2px;
-    } */
+
     .form-elements-container input[type=submit]{
         margin-left: 0;
     }
