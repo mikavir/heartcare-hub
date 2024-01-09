@@ -50,19 +50,23 @@ Icons from Font-Awesome will be used to provide visualisation amongst the text.
 
 ### New Site Users
 
-- As a returning site user, I would like to gain knowledge of cardiac surgery and what it involves, so that I can gain understanding.
-- As a returning site user, I would like to know the roles and responsibility of a healthcare professional in cardiac surgery, so that I can gain understanding what r.
+- As a new site user, I would like to gain knowledge of cardiac surgery and what it involves, so that I can gain understanding.
 - As a new site user, I would like to know if I am eligible for the role, so that I can consider the job.
-- As a new site user, I would like to know what they do cardiac surgery, so that I can consider the location of employment.
+- As a new site user, I would like to know where they do cardiac surgery, so that I can consider the location of employment.
 - As a new site user, I would like to know the benefits of being a cardiac health professional, so that I can consider it as an employment.
 
 ### Returning Site Users
 
-- 
 - As a returning site user, I would like to know the locations, so that I can consider the locations for employment.
 - As a returning site user, I would like to find contact information, so that I can get in touch for potential employment.
 - As a returning site user, I would like to gain resources, so that I can be knowledgeable on the commencement of employment.
 
+### Site administrator 
+
+- As a site administrator, I would like to have a clear logo, so that I can increase my brand recognition.
+- As a site administrator, I would like to add my social media links, so that I can improve my online presence.
+- As a site administrator, I would like a intriguing prompt, so that I can increase the likelihood of recruitment
+- As a site administrator, I would like to create a way to connect, so that I can foster trust and credibility with my target audiences.
 ## Wireframes
 
 
