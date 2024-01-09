@@ -77,7 +77,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## Form Testing
 
-I have succesfuly tested the form in the contact.form by submitting it via post using the [Code Institute form dump](https://formdump.codeinstitute.net/). I have changed this now to redirect to confirmation-page.html via get for a better user experience and feedback. This will be changed in the future, once I have the required backend to store the data. 
+I have succesfuly tested the form in the contact page by submitting it via "post" using the [Code Institute Form Dump](https://formdump.codeinstitute.net/). This has now been changed to redirect to confirmation-page.html via "get" for a better user experience and feedback. This will be changed in the future, once I have the required backend to store the data. 
 
 - ![screenshot](documentation/form-test.png)
 
