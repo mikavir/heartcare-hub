@@ -97,7 +97,7 @@ I have succesfuly tested the form in the contact.form by submitting it via post 
 
 - When information nav is clicked, the heading in the information page is obscured. 
 
-    ![screenshot](documentation/bug-02.png)
+    ![screenshot](documentation/bug02.png)
 
     -To fix this, I have added scroll margin top to the class that targets that heading elememts ie. ".data-comtainer h4, h5".
 
