@@ -25,18 +25,18 @@ I used [coolors.co](https://coolors.co/8c0032-e71348-ffffff-666666-333333) to ge
 
 ### Typography
 
-Research was completed on the preferred typography on a healthcare website. As HeartCare Hub can be referred to as a healthcare website, using similar typography will respect the convention and encourage consistency.
+Research was conducted on the preferred typography of healthcare websites. As HeartCare Hub can be referred to as a healthcare website, using similar typography will respect the convention and encourage consistency.
 
-These three fonts were recommended for the use of healthcare websites: [2]
+These two fonts were recommended for the use of healthcare websites: [2]
 
-Source Sans pro- sans-serif font
-Crimsons text- serif font
+- Source Sans pro- sans-serif font
+- Crimsons text- serif font
 
 The applied use of a combination serif and sans-serif is further recommended in a medical website to provide contrast.
 
-Therefore, these three recommended fonts will be used along with different font-weights used accodingly. Only two fonts will be used as three or more can make teh website appear excessive and lose professionalism [3].
+Therefore, these two recommended fonts will be used along with different font-weights accordingly. Only two fonts will be used as three or more can make the website appear excessive and lose professionalism [3].
 
-These fonts will be taken from Google Fonts and to be used within my Cascading Style Sheets(CSS).
+These fonts will be taken from Google Fonts and used within my Cascading Style Sheets (CSS).
 
 Icons from Font-Awesome will be used to provide visualisation amongst the text.
 
@@ -65,10 +65,10 @@ Icons from Font-Awesome will be used to provide visualisation amongst the text.
 
 - As a site administrator, I would like to have a clear logo, so that I can increase my brand recognition.
 - As a site administrator, I would like to add my social media links, so that I can improve my online presence.
-- As a site administrator, I would like a intriguing prompt, so that I can increase the likelihood of recruitment
+- As a site administrator, I would like an intriguing prompt, so that I can increase the likelihood of recruitment
 - As a site administrator, I would like to create a way to connect, so that I can foster trust and credibility with my target audiences.
-## Wireframes
 
+## Wireframes
 
 To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
 I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
@@ -125,7 +125,7 @@ Details Form
 
 - **Location Cards**
 
-    - In the index page, I have created cards that enable site users to redirect themselves to their desired area of centers. These cards incorporate an interactive zoom hover effect. This feature allows site users to easily find information about where they can work. The cards redirect them to the location page, which displays hospitals in the desired area.
+    - In the index page, I have created cards that enable site users to redirect themselves to their desired area of centres. These cards incorporate an interactive zoom hover effect. This feature allows site users to easily find information about where they can work. The cards redirect them to the location page, which displays hospitals in the desired area.
 
 ![screenshot](documentation/feature01.png)
 
@@ -143,7 +143,7 @@ Details Form
 
 - **Map to the hospitals and contact information**
 
-    - Information about the centers' locations is available on the dedicated location page. You can find the address, contact details, and a hospital image for easy recognition. Additionally, there's an embedded Google Maps feature to enable users to quickly determine the hospital's proximity. This information is valuable for users considering these hospitals for employment, as they can assess accessibility and convenience.
+    - Information about the centres' locations is available on the dedicated location page. You can find the address, contact details, and a hospital image for easy recognition. Additionally, there's an embedded Google Maps feature to enable users to quickly determine the hospital's proximity. This information is valuable for users considering these hospitals for employment, as they can assess accessibility and convenience.
 
 ![screenshot](documentation/feature04.png)
 
@@ -161,7 +161,7 @@ Details Form
 
 - **Logo**
 
-    - The navigation bar features a distinctive and memorable logo – a heart accompanied by the company name, strategically designed to resonate with cardiac surgery. This logo not only ensures clarity but also promotes brand recognition, fostering a stronger connection with our audience.
+    - The navigation bar features a distinctive and memorable logo—a heart accompanied by the company name, strategically designed to resonate with cardiac surgery. This logo not only ensures clarity but also promotes brand recognition, fostering a stronger connection with our audience.
 
 ![screenshot](documentation/feature07.png)
 
@@ -171,7 +171,7 @@ Details Form
 - Customer Testimonials
     - Incorporating testimonials and reviews from our users will significantly bolster the website's credibility and trustworthiness. This addition is poised to enhance user engagement, encouraging repeat visits. Furthermore, these testimonials provide a platform for users to articulate the benefits they've experienced, effectively communicating the value of our website.
 
-- About Us page
+- "About Us" page
     - Introducing an about us page will allow site users to learn more about the organisation fostering trust and credibilility.
 
 - Question and Answers
@@ -245,22 +245,21 @@ There are no differences identified between the local and deployment.
 
 | Source | Location | Notes |
 | --- | --- | --- |
-| [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
+| [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | Tool to help generate the Markdown files |
 | [Chris Beams](https://chris.beams.io/posts/git-commit) | Version control | "How to Write a Git Commit Message" |
 | [Bootstrap](https://getbootstrap.com/docs/4.0/components/navbar/) | Entire site | Responsive HTML/CSS/navbar |
 | [StackOverflow](https://stackoverflow.com/questions/40436285/bootstrap-navbar-logo-size) | Entire site | Customising nav |
 | [Bootstrap](https://getbootstrap.com/docs/5.3/components/carousel/) | Index page and Location page | Setting up a carousel |
 | [YouTube](https://www.youtube.com/watch?v=drAGqG-jm2Q) | Index page and Location page | Zoom hover effect |
-| [YouTube](https://www.youtube.com/watch?v=bGl6Jnud0QA) | Information page | Costumising the colours of the navpills |
+| [YouTube](https://www.youtube.com/watch?v=bGl6Jnud0QA) | Information page | Customising the colours of the navpills |
 | [YouTube](https://www.youtube.com/watch?v=KIC0OK9nKXY) | Location | Embedding maps in HTML |
 | [YouTube](https://yoast.com/how-to-make-youtube-videos-responsive/) | Information page | Making the YouTube videos responsive |
-| [YouTube](https://www.youtube.com/watch?v=u51Zjlnui4Y) | PP3 terminal | tutorial for adding color to the Python terminal |
 | [NHS](https://www.nhs.uk/conditions/congenital-heart-disease/types/#:~:text=Septal%20defects,main%20chambers%20of%20the%20heart.)| Information page | Information regarding Septal Defects|
 | [NHS](https://www.nhs.uk/conditions/coronary-artery-bypass-graft-cabg/)| Information page | Information regarding Coronary Artery Bypass Graft|
 | [Hopkins Medicine](https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/cardiovascular-surgery.) | Information page | Information regarding cardiac surgery |
-| [NHS Scotland](https://apply.jobs.scot.nhs.uk/Job/JobDetail?JobId=133087#:~:text=Duties%20include%20the%20provision%20of,bedded%20cardiothoracic%20critical%20care%20unit) | Information page | Information regarding aneasthethist role |
+| [NHS Scotland](https://apply.jobs.scot.nhs.uk/Job/JobDetail?JobId=133087#:~:text=Duties%20include%20the%20provision%20of,bedded%20cardiothoracic%20critical%20care%20unit) | Information page | Information regarding anaesthetist role |
 | [Indeed Career](https://au.indeed.com/career-advice/finding-a-job/what-does-a-cardiac-nurse-do) | Information page | Information regarding nurses |
-| [StackOverflow](https://stackoverflow.com/questions/8097744/how-do-i-center-this-form-in-css) | entire site | How to center a div in a div |
+| [StackOverflow](https://stackoverflow.com/questions/8097744/how-do-i-center-this-form-in-css) | Entire site | How to center a div in a div |
 | [YouTube](https://www.youtube.com/watch?v=-jnCgrR_yKg) | Entire Site | Tutorial on the bootstrap grid system |
 
 ### Media
@@ -268,10 +267,10 @@ There are no differences identified between the local and deployment.
 | --- | --- | --- | --- |
 | [Freepik](https://www.freepik.com/free-vector/two-heartbeat-ecg-line-heart-outlines_37682371.htm#page=3&query=ecg%20machine&position=2&from_view=keyword&track=ais&uuid=425c2731-6457-4514-8172-7f8436c45076) | Entire Website | Image | Logo |
 | [Oracle Cerner](https://www.cerner.com/ie/en/client-achievements/digital-ecgs-speeding-up-cardiac-care-decisions) | Index page | Image | Hero Background |
-| [Terry Berry](https://www.terryberry.com/blog/employee-recognition-ideas-for-healthcare-industry/) | Index page | Image | Hero background |
+| [Terry Berry](https://www.terryberry.com/blog/employee-recognition-ideas-for-healthcare-industry/) | Index page | Image | Hero Background |
 | [Visit Wales](https://www.visitwales.com/destinations/south-wales/cardiff/top-things-see-and-do-cardiff-bay) | Index page and Location page | Image | Image of Cardiff in locations |
 | [Visit Wales](https://www.visitwales.com/destinations/west-wales/swansea-bay/things-see-and-do-swansea) | Index page and Location page | Image | Image of Swansea in the Locations |
-| [Telegraph](https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/bristol/articles/bristol-travel-guide/) | Index page and location page | Image | Image of Bristol in the locations |
+| [Telegraph](https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/bristol/articles/bristol-travel-guide/) | Index page and Location page | Image | Image of Bristol in the Locations |
 | [British Heart Foundation](https://www.bhf.org.uk/what-we-do/our-research/research-successes/beating-heart-surgery) | Information page | Image | Hero Background on Information page |
 | [Canadian Business College](https://canadianbusinesscollege.com/2021/03/12/5-qualities-shared-by-professionals-in-healthcare-careers/) | Index page | Image | Image for recruitment container |
 | [Wikipedia](https://en.wikipedia.org/wiki/University_Hospital_of_Wales) | Locations and Contact page| Image | Image for University Hospital of Wales |
@@ -284,10 +283,10 @@ There are no differences identified between the local and deployment.
  [Osmosis from Elsevier](https://www.youtube.com/watch?v=GUagU8YrJZc) | Information page | Youtube Video | Informative video on aortic dissection|
 
 
-Reference:
-[1]doctorlogic.com. (n.d.). Beyond Blue and White: A Guide to Choosing Medical Logo Colors. [online] Available at: https://doctorlogic.com/blog/medical-logo-colors.html#:~:text=Why%20Are%20Blue%20And%20White.
-[2]Anon, (n.d.). Choosing The Best Fonts For Dental And Medical Websites | Dental CountryTM. [online] Available at: https://dentalcountry.com/doctors/articles/choosing-the-best-fonts-for-dental-and-medical-websites/#whatis [Accessed 10 Dec. 2023].
-[3]ThoughtCo. (n.d.). Everything You Need to Know About Choosing the Right Font Family. [online] Available at: https://www.thoughtco.com/font-families-basics-3467382.
+#### Reference:
+- [1]doctorlogic.com. (n.d.). Beyond Blue and White: A Guide to Choosing Medical Logo Colors. [online] Available at: https://doctorlogic.com/blog/medical-logo-colors.html#:~:text=Why%20Are%20Blue%20And%20White.
+- [2]Anon, (n.d.). Choosing The Best Fonts For Dental And Medical Websites | Dental CountryTM. [online] Available at: https://dentalcountry.com/doctors/articles/choosing-the-best-fonts-for-dental-and-medical-websites/#whatis [Accessed 10 Dec. 2023].
+- [3]ThoughtCo. (n.d.). Everything You Need to Know About Choosing the Right Font Family. [online] Available at: https://www.thoughtco.com/font-families-basics-3467382.
 
 ### Acknowledgements
 
@@ -295,5 +294,5 @@ Reference:
 - I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
-- I would like to thank my partner Jon and my brother Elan, for believing in me, and allowing me to make this transition into software development.
+- I would like to thank my partner Jon and my family, for believing in me, and helping me in this transition into software development.
 - I would like to thank my employer, for supporting me in my career development change towards becoming a software developer.

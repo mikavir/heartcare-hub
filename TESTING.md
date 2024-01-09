@@ -55,10 +55,11 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | Page | Mobile | Desktop | Notes |
 | --- | --- | --- | --- |
 | Home | ![screenshot](documentation/lighthouse-index-mobile.png) | ![screenshot](documentation/lighthouse-index-desktop.png) | Performance score affected due to slow response time due to large image size and use of external libary in mobile device |
-| Information | ![screenshot](documentation/lighthouse-information-mobile.png) | ![screenshot](documentation/lighthouse-information-desktop.png) |Performance score affected due to slow response time due to large image size and use of external libary in mobile device|
+| Information | ![screenshot](documentation/lighthouse-information-mobile.png) | ![screenshot](documentation/lighthouse-information-desktop.png) | Performance score affected due to slow response time due to large image size and use of external libary in mobile device|
 | Location | ![screenshot](documentation/lighthouse-location-mobile.png) | ![screenshot](documentation/lighthouse-location-desktop.png) | Performance score affected due to slow response time due to large image size and use of external libary in mobile device |
 | Contact | ![screenshot](documentation/lighthouse-contact-mobile.png)  | ![screenshot](documentation/lighthouse-contact-desktop.png) | Performance score affected due to slow response time due to large image size and use of external libary in mobile device |
 | Confirmation | ![screenshot](documentation/lighthouse-confirmation-mobile.png)  | ![screenshot](documentation/lighthouse-confirmation-desktop.png) | Performance score affected due to slow response time due to large image size and use of external libary in mobile device |
+
 ## User Story Testing
 
 | User Story | Screenshot |
@@ -77,9 +78,9 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## Form Testing
 
-I have succesfuly tested the form in the contact page by submitting it via "post" using the [Code Institute Form Dump](https://formdump.codeinstitute.net/). This has now been changed to redirect to confirmation-page.html via "get" for a better user experience and feedback. This will be changed in the future, once I have the required backend to store the data. 
+I have succesfuly tested the form in the contact page by submitting it via POST request using the [Code Institute Form Dump](https://formdump.codeinstitute.net/). This has now been changed to redirect to confirmation-page.html via GET request for a better user experience and feedback. This will be changed in the future, once I have the required backend to store the data. 
 
-- ![screenshot](documentation/form-test.png)
+- ![screenshot](documentation/form-test1.png)
 
 ## Bugs
 
@@ -93,24 +94,25 @@ I have succesfuly tested the form in the contact page by submitting it via "post
 
     ![screenshot](documentation/browser-chrome-index.png)
 
-    - To fix this, I have set 'div col' under the 'div rows' because the main had a class of container fluid and set the padding to zero.
+    - To fix this, I have set a div with a class of  '.col' under another div with a class of '.row'  because the main had a class of ".container-fluid". I have also set the padding to zero.
 
 - When information nav is clicked, the heading in the information page is obscured. 
 
     ![screenshot](documentation/bug02.png)
 
-    -To fix this, I have added scroll margin top to the class that targets that heading elememts ie. ".data-container h4, h5".
+    - To fix this, I have added scroll margin top to the class that targets that heading elements, i.e. ".data-container h4, h5".
 
 
 - When the location card is clicked and directed to the anchor points, the location heading is obscured by the fixed header.
 
     ![screenshot](documentation/unfixed-bug01.png)
 
-    - ~~ Attempted fix: I have added and set scroll-margin-top to the size of my fixed navigation bar of 5em in the #location-information, but the css element is not showing. I have tried to find resources online and there was no solution found. ~~ 
+    - ~~Attempted fix: I have added and set scroll-margin-top to the size of my fixed navigation bar of 5em in the #location-information, but the css element is not showing. I have tried to find resources online and there was no solution found.~~ 
     - To fix this, I have added the id name of the individual locations.
 
 
 ## Unfixed Bugs
 
 There are no unfixed bugs that I am aware of.
+
 
