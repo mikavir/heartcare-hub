@@ -55,34 +55,18 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 | Tablet (DevTools) Ipad Air | ![screenshot](documentation/responsive-tablet-index.png) | ![screenshot](documentation/responsive-tablet-information.png) ![screenshot](documentation/responsive-tablet-information1.png) | ![screenshot](documentation/responsive-tablet-location.png) ![screenshot](documentation/responsive-tablet-location1.png) | ![screenshot](documentation/responsive-tablet-contact.png) | ![screenshot](documentation/responsive-tablet-confirmation.png) | Works as expected |
 | Desktop | ![screenshot](documentation/responsive-desktop-index.png) | ![screenshot](documentation/browser-chrome-information.png) ![screenshot](documentation/browser-chrome-information1.png)| ![screenshot](documentation/browser-chrome-location.png) ![screenshot](documentation/browser-chrome-location1.png) ![screenshot](documentation/browser-chrome-location2.png) | ![screenshot](documentation/browser-chrome-contact.png) ![screenshot](documentation/browser-chrome-contact1.png) ![screenshot](documentation/browser-chrome-contact2.png) | ![screenshot](documentation/browser-chrome-confirmation.png) ![screenshot](documentation/browser-chrome-confirmation1.png) ![screenshot](documentation/browser-chrome-confirmation2.png) | Works as expected |
 | Own Device (Iphone 13 pro) |![screenshot](documentation/own-device-index.PNG) ![screenshot](documentation/own-device-index1.PNG) ![screenshot](documentation/own-device-index2.PNG)| ![screenshot](documentation/own-device-information.PNG) ![screenshot](documentation/own-device-information1.PNG) ![screenshot](documentation/own-device-information2.PNG)| ![screenshot](documentation/own-device-location.PNG) ![screenshot](documentation/own-device-location1.PNG) ![screenshot](documentation/own-device-location2.PNG) | ![screenshot](documentation/own-device-contact.PNG) ![screenshot](documentation/own-device-contact1.PNG) ![screenshot](documentation/own-device-contact2.PNG) ![screenshot](documentation/own-device-contact3.PNG) | ![screenshot](documentation/browser-chrome-confirmation.png) ![screenshot](documentation/own-device-confirmation.PNG) ![screenshot](documentation/own-device-confirmation1.PNG) ![screenshot](documentation/own-device-confirmation2.PNG) ![screenshot](documentation/own-device-confirmation3.PNG)| Works as expected |
+
 ## Lighthouse Audit
-
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-Use this space to discuss testing the live/deployed site's Lighthouse Audit reports.
-Avoid testing the local version (especially if developing in Gitpod), as this can have knock-on effects of performance.
-
-If you don't have Lighthouse in your Developer Tools,
-it can be added as an [extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk).
-
-Don't just test the home page (unless it's a single-page application).
-Make sure to test the Lighthouse Audit results for all of your pages.
-
-**IMPORTANT**: You must provide screenshots of the results, to "prove" that you've actually tested them.
-
-Sample Lighthouse testing documentation:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
 
 | Page | Mobile | Desktop | Notes |
 | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/lighthouse-home-mobile.png) | ![screenshot](documentation/lighthouse-home-desktop.png) | Some minor warnings |
-| About | ![screenshot](documentation/lighthouse-about-mobile.png) | ![screenshot](documentation/lighthouse-about-desktop.png) | Some minor warnings |
-| Gallery | ![screenshot](documentation/lighthouse-gallery-mobile.png) | ![screenshot](documentation/lighthouse-gallery-desktop.png) | Slow response time due to large images |
-| x | x | x | repeat for any other tested pages/sizes |
-
+| Home | ![screenshot](documentation/lighthouse-index-mobile.png) | ![screenshot](documentation/lighthouse-index-desktop.png) | Performance score affected due to slow response time due to large image and use of external libary in mobile device |
+| Information | ![screenshot](documentation/lighthouse-information-mobile.png) | ![screenshot](documentation/lighthouse-information-desktop.png) |Performance score affected due to slow response time due to large image and use of external libary in mobile device|
+| Location | ![screenshot](documentation/lighthouse-location-mobile.png) | ![screenshot](documentation/lighthouse-location-desktop.png) | Performance score affected due to slow response time due to large image and use of external libary in mobile device |
+| Contact | ![screenshot](documentation/lighthouse-contact-mobile.png)  | ![screenshot](documentation/lighthouse-contact-desktop.png) | Performance score affected due to slow response time due to large image and use of external libary in mobile device |
+| Confirmation | ![screenshot](documentation/lighthouse-confirmation-mobile.png)  | ![screenshot](documentation/lighthouse-confirmation-desktop.png) | Performance score affected due to slow response time due to large image and use of external libary in mobile device |
 ## User Story Testing
 
 🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
