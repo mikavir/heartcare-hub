@@ -54,11 +54,11 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Page | Mobile | Desktop | Notes |
 | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/lighthouse-index-mobile.png) | ![screenshot](documentation/lighthouse-index-desktop.png) | Performance score affected due to slow response time due to large image and use of external libary in mobile device |
-| Information | ![screenshot](documentation/lighthouse-information-mobile.png) | ![screenshot](documentation/lighthouse-information-desktop.png) |Performance score affected due to slow response time due to large image and use of external libary in mobile device|
-| Location | ![screenshot](documentation/lighthouse-location-mobile.png) | ![screenshot](documentation/lighthouse-location-desktop.png) | Performance score affected due to slow response time due to large image and use of external libary in mobile device |
-| Contact | ![screenshot](documentation/lighthouse-contact-mobile.png)  | ![screenshot](documentation/lighthouse-contact-desktop.png) | Performance score affected due to slow response time due to large image and use of external libary in mobile device |
-| Confirmation | ![screenshot](documentation/lighthouse-confirmation-mobile.png)  | ![screenshot](documentation/lighthouse-confirmation-desktop.png) | Performance score affected due to slow response time due to large image and use of external libary in mobile device |
+| Home | ![screenshot](documentation/lighthouse-index-mobile.png) | ![screenshot](documentation/lighthouse-index-desktop.png) | Performance score affected due to slow response time due to large image size and use of external libary in mobile device |
+| Information | ![screenshot](documentation/lighthouse-information-mobile.png) | ![screenshot](documentation/lighthouse-information-desktop.png) |Performance score affected due to slow response time due to large image size and use of external libary in mobile device|
+| Location | ![screenshot](documentation/lighthouse-location-mobile.png) | ![screenshot](documentation/lighthouse-location-desktop.png) | Performance score affected due to slow response time due to large image size and use of external libary in mobile device |
+| Contact | ![screenshot](documentation/lighthouse-contact-mobile.png)  | ![screenshot](documentation/lighthouse-contact-desktop.png) | Performance score affected due to slow response time due to large image size and use of external libary in mobile device |
+| Confirmation | ![screenshot](documentation/lighthouse-confirmation-mobile.png)  | ![screenshot](documentation/lighthouse-confirmation-desktop.png) | Performance score affected due to slow response time due to large image size and use of external libary in mobile device |
 ## User Story Testing
 
 | User Story | Screenshot |
@@ -72,7 +72,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | As a returning site user, I would like to gain resources, so that I can be knowledgeable on the commencement of employment. | ![screenshot](documentation/feature02.png) |
 | As a site administrator, I would like to have a clear logo, so that I can increase my brand recognition. | ![screenshot](documentation/feature07.png) |
 | As a site administrator, I would like to add my social media links, so that I can improve my online presence. | ![screenshot](documentation/feature06.png) |
-| As a site administrator, I would like a intriguing prompt, so that I can increase the likelihood of recruitment| ![screenshot](documentation/feature03.png) |
+| As a site administrator, I would like an intriguing prompt, so that I can increase the likelihood of recruitment| ![screenshot](documentation/feature03.png) |
 | As a site administrator, I would like to create a way to connect, so that I can foster trust and credibility with my target audiences. | ![screenshot](documentation/feature05.png)|
 
 ## Form Testing
@@ -93,13 +93,13 @@ I have succesfuly tested the form in the contact page by submitting it via "post
 
     ![screenshot](documentation/browser-chrome-index.png)
 
-    - To fix this, I have set div col under the div rows as the main was a container fluid and set padding to zero.
+    - To fix this, I have set 'div col' under the 'div rows' because the main had a class of container fluid and set the padding to zero.
 
 - When information nav is clicked, the heading in the information page is obscured. 
 
     ![screenshot](documentation/bug02.png)
 
-    -To fix this, I have added scroll margin top to the class that targets that heading elememts ie. ".data-comtainer h4, h5".
+    -To fix this, I have added scroll margin top to the class that targets that heading elememts ie. ".data-container h4, h5".
 
 
 - When the location card is clicked and directed to the anchor points, the location heading is obscured by the fixed header.
