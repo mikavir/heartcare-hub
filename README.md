@@ -185,6 +185,8 @@ Details Form
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
 - [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
 - [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
+- [Balsamiq](https://balsamiq.com/wireframes) used to make wireframes.
+- [DevTools](https://developer.chrome.com/docs/devtools) used to debug.
 
 ## Testing
 
