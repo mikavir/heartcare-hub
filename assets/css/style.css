@@ -218,7 +218,8 @@ footer .footer-text {
     font-weight: bold;
     font-size: x-large;
     padding-bottom: 5px;
-    padding-top: 5px
+    padding-top: 5px;
+    scroll-margin-top: 3em;
 }
 
 .youtube-video {
