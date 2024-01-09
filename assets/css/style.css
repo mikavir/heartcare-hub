@@ -212,7 +212,7 @@ footer .footer-text {
     top: 4em;
 }
 
-h4.data-container , h5.data-container {
+ .data-container h4, h5 {
     font-family: 'Source Sans 3', sans-serif;
     color:#8C0032;
     font-weight: bold;
@@ -400,7 +400,7 @@ span.input-group-text,
     .carousel-cover-text > h3 {
         background-color:#8C0032;
     }
-    
+
     .contact-message {
         font-size: large;
         padding: 5px;
