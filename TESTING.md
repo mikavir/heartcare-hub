@@ -81,16 +81,17 @@ from the respective feature.
 
 | User Story | Screenshot |
 | --- | --- |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature01.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature02.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature03.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature04.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature05.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature06.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature07.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature08.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature09.png) |
-| repeat for all remaining user stories | x |
+| - As a returning site user, I would like to gain knowledge of cardiac surgery and what it involves, so that I can gain understanding. | ![screenshot](documentation/feature02.png) |
+| As a new site user, I would like to know if I am eligible for the role, so that I can consider the job. | ![screenshot](documentation/feature02.png) |
+| As a new site user, I would like to know the benefits of being a cardiac health professional, so that I can consider it as an employment. | ![screenshot](documentation/feature03.png) |
+|- As a new site user, I would like to know where they do cardiac surgery, so that I can consider the location of employment. | ![screenshot](documentation/feature01.png) |
+| As a returning site user, I would like to know the locations, so that I can consider the locations for employment.| ![screenshot](documentation/feature04.png) |
+| As a returning site user, I would like to find contact information, so that I can get in touch for potential employment. | ![screenshot](documentation/feature05.png) |
+| As a returning site user, I would like to gain resources, so that I can be knowledgeable on the commencement of employment. | ![screenshot](documentation/feature02.png) |
+| As a site administrator, I would like to have a clear logo, so that I can increase my brand recognition. | ![screenshot](documentation/feature07.png) |
+| As a site administrator, I would like to add my social media links, so that I can improve my online presence. | ![screenshot](documentation/feature06.png) |
+| As a site administrator, I would like a intriguing prompt, so that I can increase the likelihood of recruitment| ![screenshot](documentation/feature03.png) |
+| As a site administrator, I would like to create a way to connect, so that I can foster trust and credibility with my target audiences. | ![screenshot](documentation/feature05.png)|
 
 ## Bugs
 
