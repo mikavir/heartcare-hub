@@ -75,6 +75,12 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | As a site administrator, I would like a intriguing prompt, so that I can increase the likelihood of recruitment| ![screenshot](documentation/feature03.png) |
 | As a site administrator, I would like to create a way to connect, so that I can foster trust and credibility with my target audiences. | ![screenshot](documentation/feature05.png)|
 
+## Form Testing
+
+I have succesfuly tested the form in the contact.form by submitting it via post using the [Code Institute form dump](https://formdump.codeinstitute.net/). I have changed this now to redirect to confirmation-page.html via get for a better user experience and feedback. This will be changed in the future, once I have the required backend to store the data. 
+
+- ![screenshot](documentation/form-test.png)
+
 ## Bugs
 
 - Font not all aligned in contact.html in the tablet version.
@@ -84,9 +90,17 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
     - To fix this, I increased the font size of the doctor icon to large in my contact.html.
 
 - White space on the sides.
+
     ![screenshot](documentation/browser-chrome-index.png)
 
     - To fix this, I have set div col under the div rows as the main was a container fluid and set padding to zero.
+
+- When information nav is clicked, the heading in the information page is obscured. 
+
+    ![screenshot](documentation/bug-02.png)
+
+    -To fix this, I have added scroll margin top to the class that targets that heading elememts ie. ".data-comtainer h4, h5".
+
 
 - When the location card is clicked and directed to the anchor points, the location heading is obscured by the fixed header.
 
