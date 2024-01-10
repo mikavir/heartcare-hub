@@ -95,6 +95,29 @@ Details Form
 
 </details>
 
+### Tablet Wireframes
+
+<details>
+<summary> Click here to see the Tablet Wireframes </summary>
+
+Home
+  - ![screenshot](documentation/homepage-tablet.png)
+
+Information
+  - ![screenshot](documentation/information-tablet.png)
+
+Location
+  - ![screenshot](documentation/location-tablet.png)
+
+Contact
+  - ![screenshot](documentation/contact-tablet.png)
+
+
+Details Form
+  - ![screenshot](documentation/detail-form-tablet.png)
+
+</details>
+
 
 ### Desktop Wireframes
 
@@ -118,6 +141,8 @@ Details Form
   - ![screenshot](documentation/detail-form-desktop.png)
 
 </details>
+
+
 
 ## Features
 
