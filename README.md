@@ -282,6 +282,7 @@ There are no differences identified between the local and deployment.
 | [NHS](https://www.nhs.uk/conditions/congenital-heart-disease/types/#:~:text=Septal%20defects,main%20chambers%20of%20the%20heart.)| Information page | Information regarding Septal Defects|
 | [NHS](https://www.nhs.uk/conditions/coronary-artery-bypass-graft-cabg/)| Information page | Information regarding Coronary Artery Bypass Graft|
 | [Hopkins Medicine](https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/cardiovascular-surgery.) | Information page | Information regarding cardiac surgery |
+| [NHS](https://www.healthcareers.nhs.uk/explore-roles/doctors/roles-doctors/surgery/cardiothoracic-surgery) | Information page | Information regarding surgeon role |
 | [NHS Scotland](https://apply.jobs.scot.nhs.uk/Job/JobDetail?JobId=133087#:~:text=Duties%20include%20the%20provision%20of,bedded%20cardiothoracic%20critical%20care%20unit) | Information page | Information regarding anaesthetist role |
 | [Indeed Career](https://au.indeed.com/career-advice/finding-a-job/what-does-a-cardiac-nurse-do) | Information page | Information regarding nurses |
 | [StackOverflow](https://stackoverflow.com/questions/8097744/how-do-i-center-this-form-in-css) | Entire site | How to center a div in a div |
