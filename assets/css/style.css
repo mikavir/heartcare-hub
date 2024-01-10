@@ -67,14 +67,12 @@ main {
     background:#8C0032;
 }
 
-
 #cardiac-surgery p {
     color: #fff;
     font-family: 'Source Sans 3', sans-serif;
     padding: 15px;
 
 }
-
 
 #cardiac-surgery h1 {
     color: #fff;
@@ -106,8 +104,8 @@ main {
     background-color: #333;
 
  }
-/* locations in the index page */
 
+/* locations in the index page */
 
 .location-title {
     color: #8C0032;
@@ -212,7 +210,7 @@ footer .footer-text {
     top: 4em;
 }
 
- .data-container h4, h5 {
+.data-container h4, h5 {
     font-family: 'Source Sans 3', sans-serif;
     color:#8C0032;
     font-weight: bold;
